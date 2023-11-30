@@ -1,0 +1,7 @@
+             Product  Quantity Sold  Total Revenue      Total Tax
+-----------------------------------------------------------------
+           Bed_Frame              4        3899.96         312.00
+        Coffee_Table              1         199.99          16.00
+                Desk              2         459.98          36.80
+        Dining_Chair              4         649.96          52.00
+                Sofa              4        1479.96         118.40

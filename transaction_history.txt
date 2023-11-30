@@ -1,0 +1,126 @@
+Date: 2023-10-30 12:52:15
+Item: Sofa
+Color: White
+Price: 369.99
+Total Price with Taxes: 399.589
+------------------------------
+Date: 2023-10-30 12:52:18
+Item: Dining_Chair
+Color: Black
+Price: 169.99
+Total Price with Taxes: 183.589
+------------------------------
+Date: 2023-10-30 12:52:20
+Item: Desk
+Color: Black
+Price: 249.99
+Total Price with Taxes: 269.989
+------------------------------
+Date: 2023-11-30 10:2:56
+Item: Sofa
+Color: Brown
+Price: 349.99
+Total Price with Taxes: 377.989
+------------------------------
+Date: 2023-11-30 10:2:57
+Item: Sofa
+Color: Black
+Price: 379.99
+Total Price with Taxes: 410.389
+------------------------------
+Date: 2023-11-30 10:2:59
+Item: Desk
+Color: Cream
+Price: 209.99
+Total Price with Taxes: 226.789
+------------------------------
+Date: 2023-11-30 10:3:41
+Item: Sofa
+Color: Black
+Price: 379.99
+Total Price with Taxes: 410.389
+------------------------------
+Date: 2023-11-30 10:3:44
+Item: Sofa
+Color: Brown
+Price: 349.99
+Total Price with Taxes: 377.989
+------------------------------
+Date: 2023-11-30 10:3:45
+Item: Sofa
+Color: Black
+Price: 379.99
+Total Price with Taxes: 410.389
+------------------------------
+Date: 2023-11-30 10:3:46
+Item: Sofa
+Color: White
+Price: 369.99
+Total Price with Taxes: 399.589
+------------------------------
+Date: 2023-11-30 10:3:47
+Item: Dining_Chair
+Color: White
+Price: 139.99
+Total Price with Taxes: 151.189
+------------------------------
+Date: 2023-11-30 10:3:47
+Item: Dining_Chair
+Color: Brown
+Price: 179.99
+Total Price with Taxes: 194.389
+------------------------------
+Date: 2023-11-30 10:3:48
+Item: Dining_Chair
+Color: Cream
+Price: 189.99
+Total Price with Taxes: 205.189
+------------------------------
+Date: 2023-11-30 10:3:49
+Item: Bed_Frame
+Color: White
+Price: 999.99
+Total Price with Taxes: 1079.99
+------------------------------
+Date: 2023-11-30 10:3:49
+Item: Dining_Chair
+Color: White
+Price: 139.99
+Total Price with Taxes: 151.189
+------------------------------
+Date: 2023-11-30 10:3:50
+Item: Bed_Frame
+Color: White
+Price: 999.99
+Total Price with Taxes: 1079.99
+------------------------------
+Date: 2023-11-30 10:3:50
+Item: Bed_Frame
+Color: Cream
+Price: 949.99
+Total Price with Taxes: 1025.99
+------------------------------
+Date: 2023-11-30 10:3:54
+Item: Bed_Frame
+Color: Grey
+Price: 949.99
+Total Price with Taxes: 1025.99
+------------------------------
+Date: 2023-11-30 10:3:55
+Item: Desk
+Color: Brown
+Price: 249.99
+Total Price with Taxes: 269.989
+------------------------------
+Date: 2023-11-30 10:3:56
+Item: Desk
+Color: Cream
+Price: 209.99
+Total Price with Taxes: 226.789
+------------------------------
+Date: 2023-11-30 10:3:57
+Item: Coffee_Table
+Color: Brown
+Price: 199.99
+Total Price with Taxes: 215.989
+------------------------------
